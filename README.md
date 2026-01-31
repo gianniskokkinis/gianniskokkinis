@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=003366,005b96,6497b1&height=250&section=header&text=Hello%20World!%20I'm%20Giannis&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20coding%20space&descAlignY=55&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=003366,005b96,6497b1&height=250&section=header&text=Hello%20World!%20I'm%20Giannis&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55&descAlign=50" />
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3399FF&center=true&vCenter=true&width=435&lines=Software+Engineer;Full+Stack+Developer;Java+%26+Python+Enthusiast;UOI+Student" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=3399FF&center=true&vCenter=true&width=435&lines=Software+Engineer;Full+Stack+Developer;Java+%26+Spring+Boot;UOI+Student" alt="Typing SVG" />
   </a>
 </div>
 
@@ -12,18 +12,29 @@
 
 ### 👨‍💻 About Me
 
-Hi there! I'm **Giannis Kokkinis**, a passionate **Software Engineer** based in **Ioannina, Greece**. I love turning complex problems into simple, beautiful, and intuitive designs.
+Hi there! I'm **Giannis Kokkinis**, a passionate **Software Engineer** based in **Ioannina, Greece**. I specialize in building versatile applications across mobile, web, and desktop platforms.
 
 - 🔭 I’m currently working on **Full Stack Web & Mobile Applications**.
 - 🚀 I specialize in **Java, Spring Boot, Angular, and React**.
-- 💡 I enjoy optimizing **Linux Servers** and exploring **Network Architectures**.
+- 💡 I enjoy solving real-world problems with clean, efficient code.
 - 🎓 **Education:** Dept. of Computer Science & Engineering @ UOI.
-- ⚡ **Fun fact:** I built my first PC and set up a home lab network while still in high school!
 
 ---
 
+### 💼 Work Experience
+
+| **Role** | **Company / Project** | **Key Contributions & Tech Stack** |
+| :--- | :--- | :--- |
+| **Software Engineer** | **DomusFood** <br> _(2025 - Present)_ | Developed a full-stack digital ordering system. <br> 🛠️ **Stack:** `Angular` `React Native` `Expo` <br> ✨ Enabled Delivery & Take Away orders optimization. |
+| **Software Engineer** | **Synergic Softwares** <br> _(2025)_ | Contributed to enterprise web/ERP systems & mobile apps. <br> 🛠️ **Stack:** `Ionic` `Angular` `Java Play` `Medusa.js` `Vite` |
+| **Full Stack Developer** | **Freelance** <br> _(Summer 2024)_ | Engineered a restaurant ordering & table-management system. <br> 🛠️ **Stack:** `Spring Boot` `MySQL` `Thymeleaf` <br> 🏗️ Implemented **Facade design pattern** for backend logic. |
+| **IT Support** | **Vodafone** <br> _(Summer 2023)_ | Handled daily technical challenges & network management. <br> 🛠️ **Skills:** `Networking` `Troubleshooting` `Teamwork` |
+
+---
+
+### 🏆 Achievements
+
 <div align="center">
-  <h3>🏆 Achievements</h3>
   <img src="https://github-profile-trophy.vercel.app/?username=gianniskokkinis&theme=tokyonight&no-frame=true&column=7&margin-w=15" />
 </div>
 
@@ -45,27 +56,24 @@ Hi there! I'm **Giannis Kokkinis**, a passionate **Software Engineer** based in 
 
 ---
 
+### 📊 GitHub Stats
+
 <div align="center">
-  <h3>📊 GitHub Analytics</h3>
-  <br>
   <img src="https://github-readme-stats.vercel.app/api?username=gianniskokkinis&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="180" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gianniskokkinis&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="180" alt="languages graph" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gianniskokkinis&theme=tokyonight&hide_border=true&bg_color=00000000" alt="streak stats" />
 </div>
 
 ---
 
+### 📫 Let's Connect
+
 <div align="center">
-  <h3>📫 Let's Connect</h3>
-  
   <a href="https://www.linkedin.com/in/giannis-kokkinis-072552273/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:netuserred060@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  
   <br><br>
   <img src="https://komarev.com/ghpvc/?username=gianniskokkinis&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
